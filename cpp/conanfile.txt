@@ -1,0 +1,11 @@
+[requires]
+boost/1.71.0@conan/stable
+alglib/3.15.0@ralf/testing
+portaudio/v190600.20161030@bincrafters/stable
+
+[generators]
+cmake_find_package
+cmake_paths
+
+[imports]
+bin, *.dll -> ./bin

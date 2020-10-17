@@ -1,0 +1,4 @@
+/cpp/out
+.vs
+/cpp/CMakeSettings.json
+/python/__pycache__
